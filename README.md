@@ -1,8 +1,27 @@
-## Hello! I'm ZaMan
+<h1 align="center">Hello! I'm ZaMan 👋</h1>
+<h3 align="center">💻 I'm backend developer 🔧</h3>
+<h3 align="center">📖 Studying various skills to become a full-stack developer 🔥</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=57F7A0&background=FFFFFF00&center=true&vCenter=true&width=440&height=45&lines=Welcome+to+my+github;I'm+BackEnd+Developer" alt="Typing SVG" /></a>
-</p>
+---
+
+## 🛠️ Tech Stack
+
+### [ Languages ]
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
+
+---
+
+### [ Frameworks & Libraries ]
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+---
+
+### [ Databases ]
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 
 <div align="center">
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZaMan-O&amp;show_icons=true&amp;theme=material-palenight" alt="ZaMan-O's GitHub stats" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZaMan-O&theme=blueberry&date_format=%5BY.%5Dn.j&card_height=160" alt="GitHub Streak" /></a></p>
