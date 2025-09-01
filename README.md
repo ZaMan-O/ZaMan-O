@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm ZaMan 👋</h1>
-<h3 align="center">💻 I'm Server Engineer 🔧</h3>
+<h3 align="center">💻 I'm BackEnd 🔧</h3>
 <h3 align="center">📖 Studying BackEnd and DevOps 🔥</h3>
 
 ---
