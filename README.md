@@ -25,5 +25,3 @@
 ---
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZaMan-O&amp;show_icons=true&amp;theme=material-palenight" alt="ZaMan-O's GitHub stats">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zaman)](https://solved.ac/zaman/)
