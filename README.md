@@ -21,7 +21,3 @@
 
 ### [ Databases ]
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZaMan-O&amp;show_icons=true&amp;theme=material-palenight" alt="ZaMan-O's GitHub stats">
