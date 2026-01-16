@@ -1,1 +1,1 @@
-![](https://githubcard.com/ZaMan-O.svg?d=RxgGih8i)
+![](https://githubcard.com/ZaMan-O.svg?d=CN6XubD7)
